@@ -14,5 +14,6 @@ public class HerenciayNetbeansGitHub {
         System.out.println("Hello World!");
         System.out.println("Hello World!");
          System.out.println("Cambio");
+          System.out.println("Cambio 2");
     }
 }
